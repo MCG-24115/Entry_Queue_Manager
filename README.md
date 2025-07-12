@@ -22,3 +22,10 @@ To **optimize the entry flow** by reducing wait times through intelligent queue 
 - Any event with multiple entry points and high footfall
 
 This project showcases an approach to **smart crowd control** using simple queueing logic and adaptive recommendations to improve attendee experience and reduce congestion.
+
+## Group Members
+
+- **Modak Akshada Rajesh** – 202301485  
+- **Maanav Gurubaxani** – 202301438  
+- **Harita Rathod** – 202301211  
+- **Jevik Rakholiya** – 202301276
